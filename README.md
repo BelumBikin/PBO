@@ -11,5 +11,22 @@
 ![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Enkapsulasi/src/Praktikum1/Praktikum1.png)
 # Praktikum2
 ![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Enkapsulasi/src/Praktikum2/Praktikum2.png)
+
+# Inheritance
+# Latihan1
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Inheritance/Latihan1.png)
+# Latihan2
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Inheritance/Latihan2.png)
+# Latihan3
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Inheritance/Latihan3.png)
+# Latihan4
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Inheritance/Latihan4.png)
+# Latihan5
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Inheritance/Latihan5.png)
+# Latihan6
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Inheritance/Latihan6.png)
+# PraktikumInheritance
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Inheritance/PraktikumInheritance.png)
+
 # TugasTambahan
 ![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/TugasTambahan/src/P/Output.png)
