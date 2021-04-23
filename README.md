@@ -1,4 +1,4 @@
-# PBO
+# Encapsulasi
 # Latihan1
 ![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Enkapsulasi/src/Latihan1/Latihan1.png)
 # Latihan2
