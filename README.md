@@ -27,6 +27,16 @@
 ![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Inheritance/Latihan6.png)
 # PraktikumInheritance
 ![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Inheritance/PraktikumInheritance.png)
-
+# Polymorphisme
+# Latihan1
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Polymorphisme/Latihan1.png)
+# Latihan2
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Polymorphisme/Latihan2.png)
+# Latihan3
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Polymorphisme/Latihan3.png)
+# Latihan4
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Polymorphisme/Latihan4.png)
+# PraktikumPolymorphisme
+![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/Polymorphisme/PraktikumPolymorphisme.png)
 # TugasTambahan
 ![Alt Text](https://github.com/RobertBudiJr/PBO/blob/main/TugasTambahan/src/P/Output.png)
